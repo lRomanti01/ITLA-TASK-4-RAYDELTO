@@ -1,8 +1,9 @@
-# React + Vite
+Tarea 4 - Agenda REACT
+By: Romantiezer Rodríguez Pérez - 2022 0721
+Captura de pantalla: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura mobile 1](src/captures/mobile-capture-1.png)
+![Captura mobile 2](src/captures/mobile-capture-2.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura pc 1](src/captures/pc-capture-1.png)
+![Captura pc 2](src/captures/pc-capture-2.png)
