@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+  height: 50px;
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}

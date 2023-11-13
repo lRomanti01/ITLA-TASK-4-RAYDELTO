@@ -1,0 +1,31 @@
+.pagination{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+
+.pagination li{
+    transition: all .3s;
+    width: 100%;
+    list-style: none;
+}
+
+.pagination li a{
+    transition: all .5s;
+    text-decoration: none;    
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    width: 20px;
+    height: 10px;
+}
+
+.pagination li a:hover {
+    transform: scale(1.1);
+    background-color: rgb(26, 39, 76);
+    color: white;
+}
